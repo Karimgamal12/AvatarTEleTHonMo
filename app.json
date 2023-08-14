@@ -3,7 +3,7 @@
   "description": "Welcome to the Avatar Telethon 8.1v { @sourceav }",
   "logo": "https://telegra.ph/file/88b355899c7f69172dacc.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/Karimgamal12/AvatarTEleTHonMo/tree/main",
+  "repository": "https://github.com/Karimgamal12/AvatarTEleTHonMo",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
